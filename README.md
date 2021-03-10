@@ -1,2 +1,4 @@
 # Happy-Mushroom
+La búsqueda de hongos o más conocida como "Shrooming", la cual es una práctica antigua, que siempre ha estado presente en la sociedad. Incluso hoy en día en las zonas urbanas a menudo se ve a la gente en busca de hongos. Algunos tipos de hongos contienen psilocibina y psilocina, unas sustancias que pueden causar alucinaciones. Cuando se usan a dosis altas. Muchos hongos de psilocibina, particularmente las especies amantes de la madera son similares a una gran variedad de otros hongos marrones pequeños, algunos de los cuales son mortales. Por lo tanto, es esencial conocer no sólo la especie que se busca, sino también las especies venenosas en la región incluyendo las que son similares Existen más de 200 especies de hongos venenosos. Sin embargo, muchas especies que se consideraban dudosas, e incluso venenosas, han resultado ser comestibles.
+
 Objetivo: Clasificar hongos entre venenosos y comestibles
